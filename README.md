@@ -22,7 +22,7 @@ A plan was developed with
 ---
 
 ## Technologies
-This project is developed with the following technologies:
+This project was developed with the following technologies:
 * Python
 * Streamlit
 * Various data analysis libraries such as Pandas, NumPy, and Matplotlib
