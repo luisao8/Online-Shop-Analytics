@@ -2,10 +2,6 @@
 
 ---
 
-[![Video Demo](https://drive.google.com/uc?export=view&id=1u_kL-3Cm6bmjS0-WY5HvdGoIl4nVlCHZ)](http://www.youtube.com/watch?v=lbs-DYDiUv8 "Video Demo")
-
----
-
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Technologies](#technologies)
@@ -72,6 +68,8 @@ Used Deep Learning for stock and customer spending prediction. Files not availab
 
 ## Webapp
 An interactive dashboard was created using Streamlit. This webapp allows the shop's team to easily navigate through the data, visualizing insights and tracking shop performance. 
+
+[![Video Demo](https://drive.google.com/uc?export=view&id=1u_kL-3Cm6bmjS0-WY5HvdGoIl4nVlCHZ)](http://www.youtube.com/watch?v=lbs-DYDiUv8 "Video Demo")
 
 ---
 
