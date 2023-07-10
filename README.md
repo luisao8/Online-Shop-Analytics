@@ -21,7 +21,7 @@ A plan was developed on the basis of it and a dashboard was developed to help th
 
 ---
 
-## SUMMARY:
+## Exploratory:
 **DATA CLEANING INSIGHTS:**   
 - 70.000 rows were cleared.  
 - 3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
@@ -61,16 +61,21 @@ Thanks to this, it was discovered that some wholesale customers are not register
 
 ---
 
+## Deep Learning
+Used Deep Learning for stock and customer spending prediction. Files not available due to copyright. 
+
+---
+
+## Webapp
+An interactive dashboard was created using Streamlit. This webapp allows the shop's team to easily navigate through the data, visualizing insights and tracking shop performance. 
+
+---
+
 ## Technologies
 This project was developed with the following technologies:
 * Python
 * Streamlit
 * Various data analysis libraries such as Pandas, NumPy, and Matplotlib
-
----
-
-## Webapp
-An interactive dashboard was created using Streamlit. This webapp allows the shop's team to easily navigate through the data and visualize insights. 
 
 ---
 
