@@ -64,6 +64,14 @@ Thanks to this, it was discovered that some wholesale customers are not register
 ## Deep Learning
 Used Deep Learning for stock and customer spending prediction. Files not available due to copyright. 
 
+Model used:
+- Sequential
+       - Input LSTM layer with 98 neurons.
+       - Middle layer with 10 dense.
+       - Final dense 1 neuron layer.
+       - 50 epocs.
+       - 70% accuracy. Work to be done yet.
+
 ---
 
 ## Webapp
