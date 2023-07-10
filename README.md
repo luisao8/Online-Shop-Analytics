@@ -19,6 +19,7 @@
 This repository contains a comprehensive Python-based analysis project focused on providing significant insights into the data of an online shop. A SWOT analysis was performed on the shop by undergoing a deep exploratory search
 into its sales data from December 2009 to November 2011.
 A plan was developed with 
+
 ---
 
 ## Technologies
