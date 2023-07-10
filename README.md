@@ -2,7 +2,9 @@
 
 ---
 
-[![Overview]([https://github.com/luisao8/Online-Shop-Analytics/blob/main/images/Overview.png])]([https://youtu.be/bAeNwcJIYMo])
+[![Video Demo](http://img.youtube.com/vi/lbs-DYDiUv8/0.jpg)](http://www.youtube.com/watch?v=lbs-DYDiUv8 "Video Demo") 
+
+---
 
 ## Table of Contents
 1. [Project Description](#project-description)
