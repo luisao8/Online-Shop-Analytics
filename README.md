@@ -21,7 +21,7 @@ A plan was developed on the basis of it and a dashboard was developed to help th
 
 ---
 
-SUMMARY:
+## SUMMARY:
 DATA CLEANING INSIGHTS:
 70.000 rows were cleared.
 3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.
