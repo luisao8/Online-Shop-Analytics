@@ -2,7 +2,7 @@
 
 ---
 
-[![Video Demo](http://img.youtube.com/vi/lbs-DYDiUv8/0.jpg)](http://www.youtube.com/watch?v=lbs-DYDiUv8 "Video Demo") 
+[![Video Demo](https://drive.google.com/uc?export=view&id=1u_kL-3Cm6bmjS0-WY5HvdGoIl4nVlCHZ)](http://www.youtube.com/watch?v=lbs-DYDiUv8 "Video Demo")
 
 ---
 
