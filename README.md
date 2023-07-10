@@ -22,40 +22,40 @@ A plan was developed on the basis of it and a dashboard was developed to help th
 ---
 
 ## SUMMARY:
-DATA CLEANING INSIGHTS:   
+**DATA CLEANING INSIGHTS:**   
 - 70.000 rows were cleared.  
 - 3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
 - 6.4% of invoices, (570.000) products were not shipped because of human error.   
 The shop can expect 75.000£ in bad debts for the year 2012.   
 
-CANCELLATIONS:
+**CANCELLATIONS:** 
 - 17% invoices (733.000 products wer cancelled.
 - Found harmful customers with hgih % of cancellations to look at by marketing team.
 - Developed a model that can predict future cancellations with 95% accuracy. It will hopefully help the shop run more efficiently.
 - Saw a small relationship between country distance and cancellations.
 - Obtained a list of countries to investigate (USA 30% invoices cancelled...)
 
-UNDERSTANDING DATASET
+**UNDERSTANDING DATASET** 
 - Managed to identify wholesale and retail customers. Helpful for prior analysis.
 Thanks to this, it was discovered that some wholesale customers are not registering to the shop, therefore the shope can't track and increase loyalty and hand offers.
 
-CUSTOMER SPENDING:
+**CUSTOMER SPENDING:**
 - Saw few customers accounted for most of the sales. Ex. Top 500/5800 accounted to almost half the sales and products bought.
 - Saw that more products != more sales for top customers. Needs more investigation.
 
-PRODUCTS:
+**PRODUCTS:**
 - Saw that stock could be managed much more efficiently. Ex. 1000/5000 products account for just 0.6% of sales. 2.500 products could be removed from stock without major impact. - - Should focus more on top selling products and their variations.
 
-RFM AND CLUSTERING:
+**RFM AND CLUSTERING:**
 - Identified and classified different customer segments.
 - Top customers for RFM and Kmeans agreed, rest different possibilities.
 - Will likely stick to RFM to hand classification to marketing team.
 
-A PRIORI:
+**A PRIORI:** 
 - Used A priori to find relationships between products and specially saw how product variations were bought together greatly. Sign of wholesale cuswtomers. Good idea to hand offers or sell in packs.
 - Need to investigate more to see how those nodes of product variations connect with others for pack cross-selling.
 
-RECOMMENDATION ENGINE:
+**RECOMMENDATION ENGINE:** 
 - Used collaborative filtering for top customers to obtain a list of top ten products to recommend them.
 - Together with A priori findings should give marketing team good insights for increasing top customers spend.
 
