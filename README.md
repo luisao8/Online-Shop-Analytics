@@ -23,17 +23,17 @@ A plan was developed on the basis of it and a dashboard was developed to help th
 
 ## SUMMARY:
 DATA CLEANING INSIGHTS:   
-70.000 rows were cleared.  
-3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
-6.4% of invoices, (570.000) products were not shipped because of human error.   
+*70.000 rows were cleared.  
+*3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
+*6.4% of invoices, (570.000) products were not shipped because of human error.   
 The shop can expect 75.000£ in bad debts for the year 2012.   
 
 CANCELLATIONS:
-17% invoices (733.000 products wer cancelled.
-Found harmful customers with hgih % of cancellations to look at by marketing team.
-Developed a model that can predict future cancellations with 95% accuracy. It will hopefully help the shop run more efficiently.
-Saw a small relationship between country distance and cancellations.
-Obtained a list of countries to investigate (USA 30% invoices cancelled...)
+-17% invoices (733.000 products wer cancelled.
+-Found harmful customers with hgih % of cancellations to look at by marketing team.
+-Developed a model that can predict future cancellations with 95% accuracy. It will hopefully help the shop run more efficiently.
+-Saw a small relationship between country distance and cancellations.
+-Obtained a list of countries to investigate (USA 30% invoices cancelled...)
 
 UNDERSTANDING DATASET
 Managed to identify wholesale and retail customers. Helpful for prior analysis.
