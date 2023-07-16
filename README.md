@@ -16,17 +16,36 @@
 ---
 
 ## Project Description
-This repository contains a comprehensive Python-based analysis project focused on providing significant insights into the data of an online shop. A SWOT analysis was performed on the shop by undergoing a deep exploratory search into its sales data from December 2009 to November 2011.
-A plan was developed on the basis of it and a dashboard was developed to help the team understand the company better and be able to navigate through it. 
+This repository contains a comprehensive Python-based analysis project focused on an online shop. The idea is to prove significant business insights and develop and provide useful tools for the business to navigate the future guided by data. 
+
+The project involved the following:
+
+1. Cleaning data and lessons from its errors.
+2. Exploratory search for business insights. 
+3. - Investigation into a very high percentage of cancellations.
+   - Developing a model for predicting future cancellations optimizing performance.
+4. Investigation into product and customer spending.
+5. RFM and kmeans analysis:
+   - Segmenting customers.
+   - Labeling them by importance.
+7. Used A priori analysis to find relationships between products for best possible offers.
+8. Used collaborative filtering to build a recommendation engine.
+9. Used Deep Learning for stock and customer spending prediction.
+10. Developed Webapp for shop team to predict, plan, execute, and monitor improvements in the future.
+12. [Contact Information](#contact-information)
 
 ---
 
 ## Exploratory:
-**DATA CLEANING INSIGHTS:**   
+**Cleaning data and lessons from its errors:**   
 - 70.000 rows were cleared.  
 - 3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
 - 6.4% of invoices, (570.000) products were not shipped because of human error.   
-The shop can expect 75.000£ in bad debts for the year 2012.   
+The shop can expect 75.000£ in bad debts for the year 2012.
+
+**UNDERSTANDING DATASET** 
+- Managed to identify wholesale and retail customers. Helpful for prior analysis.
+Thanks to this, it was discovered that some wholesale customers are not registering to the shop, therefore the shop can't track and increase loyalty and hand offers.
 
 **CANCELLATIONS:** 
 - 17% invoices (733.000 products wer cancelled.
@@ -34,10 +53,6 @@ The shop can expect 75.000£ in bad debts for the year 2012.
 - Developed a model that can predict future cancellations with 95% accuracy. It will hopefully help the shop run more efficiently.
 - Saw a small relationship between country distance and cancellations.
 - Obtained a list of countries to investigate (USA 30% invoices cancelled...)
-
-**UNDERSTANDING DATASET** 
-- Managed to identify wholesale and retail customers. Helpful for prior analysis.
-Thanks to this, it was discovered that some wholesale customers are not registering to the shop, therefore the shope can't track and increase loyalty and hand offers.
 
 **CUSTOMER SPENDING:**
 - Saw few customers accounted for most of the sales. Ex. Top 500/5800 accounted to almost half the sales and products bought.
