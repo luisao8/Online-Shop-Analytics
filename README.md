@@ -25,6 +25,7 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 - 8 columns each accounting for a transaction.
 - Time period ranging from 01-12-2009 to 09-12-2011 (540 days).
 - 5800 customers.
+- 5300 products.
 
 **The project involved the following:**
 
@@ -39,48 +40,10 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 
 ---
 
-## SWOT:
-**Cleaning data and learning from its errors:**   
-- 70.000 rows were cleared.  
-- 3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
-- 6.4% of invoices, (570.000) products were not shipped because of human error.   
-The shop can expect 75.000£ in bad debts for the year 2012.
-
-**Understanding the Dataset** 
-- Managed to identify wholesale and retail customers. Helpful for prior analysis.
-Thanks to this, it was discovered that some wholesale customers are not registering to the shop, therefore the shop can't track and increase loyalty and hand offers.
-
-**Investigating Cancellations:** 
-- 17% invoices (733.000) products wer cancelled.
-- Found harmful customers with hgih % of cancellations to look at by marketing team.
-- Developed a model that can predict future cancellations with 95% accuracy. It will hopefully help the shop run more efficiently.
-- Saw a small relationship between country distance and cancellations.
-- Obtained a list of countries to investigate (USA 30% invoices cancelled...)
-
-**Digging into customer spending:**
-- Saw few customers accounted for most of the sales. Ex. Top 500/5800 accounted to almost half the sales and products bought.
-- Saw that more products != more sales for top customers. Needs more investigation.
-
-**Delving into product performance:**
-- Saw that stock could be managed much more efficiently. Ex. 1000/5000 products account for just 0.6% of sales. 2.500 products could be removed from stock without major impact. - - Should focus more on top selling products and their variations.
-
-**RFM and Clustering:**
-- Identified and classified different customer segments.
-- Top customers for RFM and Kmeans agreed, rest different possibilities.
-- Will likely stick to RFM to hand classification to marketing team.
-
-**A priori:** 
-- Used A priori to find relationships between products and specially saw how product variations were bought together greatly. Sign of wholesale cuswtomers. Good idea to hand offers or sell in packs.
-- Need to investigate more to see how those nodes of product variations connect with others for pack cross-selling.
-
-**Recommendation Engine:** 
-- Used collaborative filtering for top customers to obtain a list of top ten products to recommend them.
-- Together with A priori findings should give marketing team good insights for increasing top customers spend.
-
 ## SWOT Results:
 
 ###**Strenghts:** 
-- Shop has a small group of top clients driving sales.
+- Shop has a small group of valuable top clients driving sales.
 - 18% of customers = 71% of sales.
 - Identified profile for business development with similar customers/companies.
 - Identified which customers to prioritise and target with offers.
