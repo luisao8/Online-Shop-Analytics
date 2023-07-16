@@ -20,13 +20,13 @@ This repository contains a comprehensive Python-based analysis project focused o
 
 The shop is based in the UK and sells unique all-ocassion gifts to both wholesale and retail customers in 34 different countries.
 
-The dataset is the Online Retail Dataset II, and is comprised of:
+**The dataset is the Online Retail Dataset II, and is comprised of:**
 - 1.067.000 rows.
 - 8 columns each accounting for a transaction.
 - Time period ranging from 01-12-2009 to 09-12-2011 (540 days).
 - 5800 customers.
 
-The project involved the following:
+**The project involved the following:**
 
 1. Cleaning data and learning from its errors.
 2. Exploratory search for business insights. 
