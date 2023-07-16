@@ -42,7 +42,7 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 
 ## SWOT Results:
 
-###**Strenghts:** 
+###**Strenghts:**###
 - Shop has a small group of valuable top clients driving sales.
 - 18% of customers = 71% of sales.
 - Identified profile for business development with similar customers/companies.
