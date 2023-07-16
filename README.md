@@ -16,11 +16,18 @@
 ---
 
 ## Project Description
-This repository contains a comprehensive Python-based analysis project focused on an online shop. The idea is to prove significant business insights and develop and provide useful tools for the business to navigate the future guided by data. 
+This repository contains a comprehensive Python-based analysis project focused on an online shop. The idea is to prove significant business insights in the form of a SWOT analysis, and to develop and provide useful tools for the business to navigate the future guided by data. 
+
+The shop is based in the UK and sells unique all-ocassion gifts to both wholesale and retail customers in 34 different countries.
+
+The dataset is comprised of:
+- 1.067.000 rows.
+- 8 columns each accounting for a transaction.
+- Time period ranging from 01-12-2009 to 09-12-2011 (540 days).
 
 The project involved the following:
 
-1. Cleaning data and lessons from its errors.
+1. Cleaning data and learning from its errors.
 2. Exploratory search for business insights. 
 3. - Investigation into a very high percentage of cancellations.
    - Developing a model for predicting future cancellations optimizing performance.
@@ -36,8 +43,8 @@ The project involved the following:
 
 ---
 
-## Exploratory:
-**Cleaning data and lessons from its errors:**   
+## SWOT:
+**Cleaning data and learning from its errors:**   
 - 70.000 rows were cleared.  
 - 3.000 which were not marked as cancelled o negative, but had not been taken off the dataset. They artificially inflated the dataset 5%. If the shop counted them as real they would have much false hopes.   
 - 6.4% of invoices, (570.000) products were not shipped because of human error.   
@@ -48,7 +55,7 @@ The shop can expect 75.000£ in bad debts for the year 2012.
 Thanks to this, it was discovered that some wholesale customers are not registering to the shop, therefore the shop can't track and increase loyalty and hand offers.
 
 **CANCELLATIONS:** 
-- 17% invoices (733.000 products wer cancelled.
+- 17% invoices (733.000) products wer cancelled.
 - Found harmful customers with hgih % of cancellations to look at by marketing team.
 - Developed a model that can predict future cancellations with 95% accuracy. It will hopefully help the shop run more efficiently.
 - Saw a small relationship between country distance and cancellations.
@@ -73,6 +80,12 @@ Thanks to this, it was discovered that some wholesale customers are not register
 **RECOMMENDATION ENGINE:** 
 - Used collaborative filtering for top customers to obtain a list of top ten products to recommend them.
 - Together with A priori findings should give marketing team good insights for increasing top customers spend.
+
+## SWOT Results:
+
+
+
+
 
 ---
 
