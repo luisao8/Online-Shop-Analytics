@@ -50,7 +50,7 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 - Identified group of cutomers with potential to become top spenders and increase sales.
 - Very strong base country in UK (85% of sales).
 
-###**Weaknesses:** 
+### **Weaknesses:** 
 - 9.4% of orders was cancelled due to human error. (569.314 products not shipped).
 - Human error cancellations were highest in springbreak sales peak and stocking months, however not on peak christmas sales months. Shop probably prepares well for christmas activity but doesn't do a good job the rest of the months underestimating the workload.
 - Stock inneficiencies / Too many products in stock - Top 2000 products account for 92% of sales, 3395 are almost always on the digital shelf and cost the shop both time and money. Recalibrating stock would greatly optimise performance.
@@ -58,7 +58,7 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 - Potential artificial self-perception - Managed to match records and find that 1365 cancelled invoices had not had their cuonterparts removed (344.714 products), including the shops 2 biggest transactions. If the shop was accounting for these sales an insidious artificial self perception was weakening it.
 - Bad Debts - Found bad depts and estimated 75.000 pounds for 2012.
 
-###**Threats:** 
+### **Threats:** 
 
 Cancellations:
       - 16.9% of invoices were eventually cancelled.
@@ -69,7 +69,7 @@ Cancellations:
       - Found small relationship between country distance and cancellations.
 Shipping, order response, and customer support reaction times should be investigated and worked on to reduce cancellations. Possible problems with customs and generated expectations should be taken a look at as well.
       
-###**Opportunities:** 
+### **Opportunities:** 
 
 - Cancellations - Developed model for a cancellation detector seeking a smoother running of the shop. It was incorporated into the webapp for team testing.
 - A priori analysis - Found signs of wholesale activity purchasing in bulk. Found tightly knit groups of product variations to sell in packs for sales increase. The processed relationships between products where uploaded to the webapp.
@@ -109,7 +109,7 @@ Appart from mentioned tools, webapp has:
 This project was developed with the following technologies:
 * Python
 * Streamlit
-* Various data analysis libraries such as Pandas, NumPy, and Matplotlib
+* Various data analysis libraries such as Pandas, NumPy, Matplotlib, scipy, sci-kit, and more...
 
 ---
 
