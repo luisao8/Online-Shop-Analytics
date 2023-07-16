@@ -60,8 +60,8 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 
 ### **Threats:** 
 
-- Cancellations:
-            - 16.9% of invoices were eventually cancelled.
+- Cancellations:<br>
+            - 16.9% of invoices were eventually cancelled.<br>
             - 97% were done by wholesale customers. Coincidently big baskets were the most cancelled ones. There could be possible problems like slow processes in order preparation when they become too big. It should be investigated thoroughly as most valuable baskets are being lost.
             - Found group of customers with high number of cancellations to be aware of. Top cancelling customer cancelled 95 orders (could be investigated to learn possible patterns). 
             - Group of customers with at least 1 cancellation have cancelled 30% of their orders.
