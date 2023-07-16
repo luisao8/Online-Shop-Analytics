@@ -61,13 +61,13 @@ The shop is based in the UK and sells unique all-ocassion gifts to both wholesal
 ### **Threats:** 
 
 - Cancellations:
-      - 16.9% of invoices were eventually cancelled.
-      - 97% were done by wholesale customers. Coincidently big baskets were the most cancelled ones. There could be possible problems like slow processes in order preparation when they become too big. It should be investigated thoroughly as most valuable baskets are being lost.
-      - Found group of customers with high number of cancellations to be aware of. Top cancelling customer cancelled 95 orders (could be investigated to learn possible patterns). 
-      - Group of customers with at least 1 cancellation have cancelled 30% of their orders.
-      - Found group of countries with high percentage of cancellations to investigate (For example USA 31%, Japan 21% and Korea 19%).
-      - Found small relationship between country distance and cancellations.
-Shipping, order response, and customer support reaction times should be investigated and worked on to reduce cancellations. Possible problems with customs and generated expectations should be taken a look at as well.
+            - 16.9% of invoices were eventually cancelled.
+            - 97% were done by wholesale customers. Coincidently big baskets were the most cancelled ones. There could be possible problems like slow processes in order preparation when they become too big. It should be investigated thoroughly as most valuable baskets are being lost.
+            - Found group of customers with high number of cancellations to be aware of. Top cancelling customer cancelled 95 orders (could be investigated to learn possible patterns). 
+            - Group of customers with at least 1 cancellation have cancelled 30% of their orders.
+            - Found group of countries with high percentage of cancellations to investigate (For example USA 31%, Japan 21% and Korea 19%).
+            - Found small relationship between country distance and cancellations.
+            Shipping, order response, and customer support reaction times should be investigated and worked on to reduce cancellations. Possible problems with customs and generated expectations should be taken a look at as well.
       
 ### **Opportunities:** 
 
